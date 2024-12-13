@@ -1,0 +1,16 @@
+{
+    "name": "dont-touch-me",
+    "version": "1.0.0",
+    "description": "Online multiplayer game - Don't Touch Me",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Amar Sharoof P C",
+    "license": "MIT",
+    "keywords": [],
+    "dependencies": {
+        "express": "^4.21.2",
+        "socket.io": "^4.8.1"
+    }
+}
